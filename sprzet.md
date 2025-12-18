@@ -6,12 +6,12 @@ permalink: /sprzet
 
 ## Główny serwer
 
-- **Model:** Raspberry Pi 5 8GB + 256GB NVme (rpi5)  
+- **Model:** Raspberry Pi 5 8GB + 256GB NVMe (rpi5)  
 - **Rola:** główny serwer homelabu 
 - **System operacyjny:** Ubuntu 25.10 „Questing Quokka”
 
 ## Serwer Proxmox
-- **Model:** Intel i7-8550U 32GB RAM + 1TB NVME (proxmox)
+- **Model:** Intel i7-8550U 32GB RAM + 1TB NVMe (proxmox)
 - **Rola:** host maszyn wirtualnych
 - **System Operacyjny:** Proxmox VE 9.1
 
