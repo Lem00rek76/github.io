@@ -4,8 +4,6 @@ title: "Sieć"
 permalink: /siec
 ---
 
-# Sieć
-
 ## Podstawowa topologia
 
 - **Sieć domowa oparta na MikroTik-ach**
